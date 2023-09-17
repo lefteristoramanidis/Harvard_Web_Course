@@ -1,0 +1,49 @@
+div.titlee {
+    margin-left: 30px;
+    margin-top: 80px;
+    color: white;
+    font-size: 29px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 52px;
+}
+
+div.Google_logo {
+    margin-top: 15px;
+    margin-left: 15px;
+    color: white;
+    font-size: 25px;
+    width: 400px;
+    display: inline-block;
+}
+
+div.hub {
+
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 1330px;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+
+}
+
+span.input {
+    margin-left: 30px;
+    color: white;
+
+
+}
+
+input.input_box {
+    position: absolute;
+    left: 300px;
+    width: 300px;
+    height: 20px;
+}
